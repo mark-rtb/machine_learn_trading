@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 from keras.layers.wrappers import Bidirectional
 
 
-dir_name = 'D:\\machine_learn_trading\\data\\'
+dir_name = 'D:\\traiding_nnet\\data\\'
 file_name = 'BTCUSDT_2017-08-01_2019-01-23_1m.dat'
 
 def load_json(dir_name, file_name):
